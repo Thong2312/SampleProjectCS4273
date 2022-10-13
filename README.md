@@ -7,7 +7,7 @@ Participants:
 - Member: [Name - ID]
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: https://trello.com/b/wHbIHtUn
 
 UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1) [Replace by your public prototype later]
 
