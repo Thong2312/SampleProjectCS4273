@@ -2,7 +2,7 @@
 
 Participants:
 
-- Leader: [Name - ID]
+- Leader: Tran Thai Thong - 20521984
 - Member: [Name - ID]
 - Member: [Name - ID]
 
