@@ -3,7 +3,7 @@
 Participants:
 
 - Leader: Tran Thai Thong - 20521984
-- Member: [Name - ID]
+- Member: Tran Nhan Duc - 20521204
 - Member: [Name - ID]
 
 
