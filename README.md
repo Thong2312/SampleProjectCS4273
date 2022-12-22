@@ -9,7 +9,7 @@ Participants:
 
 Task management table: https://trello.com/b/wHbIHtUn
 
-UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1) [Replace by your public prototype later]
+UI / UX prototype: https://www.figma.com/proto/BI3vgNo2Ohe7v4oXpl8hTz/Untitled?page-id=0%3A1&node-id=26%3A48&viewport=204%2C188%2C0.48&scaling=scale-down
 
 Tech stacks:
 
